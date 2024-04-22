@@ -1,0 +1,12 @@
+
+.tbody,
+.foot,
+body {
+    background-color: #fff ;
+}
+
+pre{
+    width: 970px;
+    white-space: normal;
+    /* word-wrap: break-word; */
+}
